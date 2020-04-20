@@ -1,0 +1,14 @@
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Users\Hoshii-Manteca\Documents\Cosillas de Hoshii\Tp1\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Users\Hoshii-Manteca PC\Documents\Lucas\visual 2020\tp_laboratorio_2-master\Tp1\Entidades\Entidades\obj\Debug\Entidades.pdb
